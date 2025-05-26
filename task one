@@ -1,0 +1,846 @@
+Results of performing Nmap on local host only port 80 and 1900 are open
+
+
+
+
+
+Nmap scan report for 192.168.1.0
+Host is up (0.81s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.1
+Host is up (0.012s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+80/tcp   open   http
+481/tcp  closed dvs
+1900/tcp open   upnp
+
+Nmap scan report for 192.168.1.2
+Host is up (0.67s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.3
+Host is up (0.67s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.4
+Host is up (0.67s latency).
+All 1000 scanned ports on 192.168.1.4 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.5
+Host is up (0.67s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+34573/tcp closed unknown
+
+Nmap scan report for 192.168.1.6
+Host is up (0.67s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.7
+Host is up (0.67s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.8
+Host is up (0.67s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.9
+Host is up (0.67s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.10
+Host is up (0.67s latency).
+All 1000 scanned ports on 192.168.1.10 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.11
+Host is up (0.81s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+481/tcp closed dvs
+
+Nmap scan report for 192.168.1.12
+Host is up (0.81s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.13
+Host is up (0.66s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.14
+Host is up (0.66s latency).
+All 1000 scanned ports on 192.168.1.14 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.15
+Host is up (0.81s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+481/tcp closed dvs
+
+Nmap scan report for 192.168.1.16
+Host is up (0.81s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.17
+Host is up (0.57s latency).
+All 1000 scanned ports on 192.168.1.17 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.18
+Host is up (0.57s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.19
+Host is up (0.57s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.20
+Host is up (0.81s latency).
+All 1000 scanned ports on 192.168.1.20 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.21
+Host is up (0.81s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.22
+Host is up (0.56s latency).
+Not shown: 992 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.23
+Host is up (0.56s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.24
+Host is up (0.56s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.25
+Host is up (0.56s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.26
+Host is up (0.56s latency).
+All 1000 scanned ports on 192.168.1.26 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.27
+Host is up (0.56s latency).
+Not shown: 993 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.28
+Host is up (0.81s latency).
+All 1000 scanned ports on 192.168.1.28 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.29
+Host is up (0.81s latency).
+All 1000 scanned ports on 192.168.1.29 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.30
+Host is up (0.56s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+481/tcp closed dvs
+
+Nmap scan report for 192.168.1.31
+Host is up (0.56s latency).
+Not shown: 988 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1165/tcp  closed qsm-gui
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+6839/tcp  closed unknown
+7496/tcp  closed unknown
+10629/tcp closed unknown
+32774/tcp closed sometimes-rpc11
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.32
+Host is up (0.81s latency).
+All 1000 scanned ports on 192.168.1.32 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.33
+Host is up (0.81s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+481/tcp closed dvs
+
+Nmap scan report for 192.168.1.34
+Host is up (0.46s latency).
+All 1000 scanned ports on 192.168.1.34 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.35
+Host is up (0.46s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.36
+Host is up (0.46s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.37
+Host is up (0.45s latency).
+All 1000 scanned ports on 192.168.1.37 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.38
+Host is up (0.45s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.39
+Host is up (0.45s latency).
+All 1000 scanned ports on 192.168.1.39 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.40
+Host is up (0.45s latency).
+All 1000 scanned ports on 192.168.1.40 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.41
+Host is up (0.45s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.42
+Host is up (0.45s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.43
+Host is up (0.45s latency).
+Not shown: 990 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+7496/tcp  closed unknown
+10629/tcp closed unknown
+32774/tcp closed sometimes-rpc11
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.44
+Host is up (0.45s latency).
+Not shown: 992 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.45
+Host is up (0.81s latency).
+All 1000 scanned ports on 192.168.1.45 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.46
+Host is up (0.80s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.47
+Host is up (0.34s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.48
+Host is up (0.34s latency).
+All 1000 scanned ports on 192.168.1.48 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.49
+Host is up (0.34s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+6123/tcp  closed backup-express
+32774/tcp closed sometimes-rpc11
+
+Nmap scan report for 192.168.1.50
+Host is up (0.34s latency).
+All 1000 scanned ports on 192.168.1.50 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.51
+Host is up (0.34s latency).
+All 1000 scanned ports on 192.168.1.51 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.52
+Host is up (0.34s latency).
+All 1000 scanned ports on 192.168.1.52 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.53
+Host is up (0.34s latency).
+Not shown: 993 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+7496/tcp  closed unknown
+10629/tcp closed unknown
+32774/tcp closed sometimes-rpc11
+
+Nmap scan report for 192.168.1.54
+Host is up (0.34s latency).
+Not shown: 995 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+1259/tcp  closed opennl-voice
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.55
+Host is up (0.34s latency).
+All 1000 scanned ports on 192.168.1.55 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.56
+Host is up (0.34s latency).
+Not shown: 993 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.57
+Host is up (0.34s latency).
+Not shown: 990 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+7496/tcp  closed unknown
+10629/tcp closed unknown
+32774/tcp closed sometimes-rpc11
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.58
+Host is up (0.80s latency).
+All 1000 scanned ports on 192.168.1.58 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 192.168.1.59
+Host is up (0.80s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+481/tcp closed dvs
+
+Nmap scan report for 192.168.1.60
+Host is up (0.23s latency).
+Not shown: 984 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1165/tcp  closed qsm-gui
+1248/tcp  closed hermes
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+5120/tcp  closed barracuda-bbs
+6123/tcp  closed backup-express
+6839/tcp  closed unknown
+7496/tcp  closed unknown
+10010/tcp closed rxapi
+10629/tcp closed unknown
+32773/tcp closed sometimes-rpc9
+32774/tcp closed sometimes-rpc11
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.61
+Host is up (0.23s latency).
+Not shown: 992 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+10629/tcp closed unknown
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.62
+Host is up (0.23s latency).
+Not shown: 991 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+10629/tcp closed unknown
+32774/tcp closed sometimes-rpc11
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+Nmap scan report for 192.168.1.63
+Host is up (0.23s latency).
+Not shown: 990 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+481/tcp   closed dvs
+666/tcp   closed doom
+1259/tcp  closed opennl-voice
+3221/tcp  closed xnm-clear-text
+6123/tcp  closed backup-express
+7496/tcp  closed unknown
+10629/tcp closed unknown
+32774/tcp closed sometimes-rpc11
+34573/tcp closed unknown
+49157/tcp closed unknown
+
+
+
+performing nmap on a random website and its result 
+
+Not shown: 712 closed tcp ports (reset)
+PORT      STATE SERVICE       VERSION
+13/tcp    open  tcpwrapped
+21/tcp    open  ftp           Pure-FTPd
+22/tcp    open  ssh           OpenSSH 7.4 (protocol 2.0)
+23/tcp    open  tcpwrapped
+25/tcp    open  smtp?
+32/tcp    open  tcpwrapped
+42/tcp    open  tcpwrapped
+53/tcp    open  domain        PowerDNS Authoritative Server 4.9.1
+79/tcp    open  tcpwrapped
+80/tcp    open  http          LiteSpeed
+81/tcp    open  tcpwrapped
+82/tcp    open  tcpwrapped
+110/tcp   open  pop3          Dovecot pop3d
+111/tcp   open  tcpwrapped
+113/tcp   open  tcpwrapped
+125/tcp   open  tcpwrapped
+135/tcp   open  tcpwrapped
+139/tcp   open  tcpwrapped
+143/tcp   open  tcpwrapped
+179/tcp   open  tcpwrapped
+199/tcp   open  tcpwrapped
+222/tcp   open  tcpwrapped
+256/tcp   open  tcpwrapped
+259/tcp   open  tcpwrapped
+301/tcp   open  tcpwrapped
+443/tcp   open  ssl/https     LiteSpeed
+445/tcp   open  microsoft-ds?
+465/tcp   open  ssl/smtp      Exim smtpd 4.96.2
+497/tcp   open  tcpwrapped
+514/tcp   open  tcpwrapped
+554/tcp   open  tcpwrapped
+555/tcp   open  tcpwrapped
+563/tcp   open  tcpwrapped
+587/tcp   open  smtp          Exim smtpd 4.96.2
+616/tcp   open  tcpwrapped
+648/tcp   open  tcpwrapped
+691/tcp   open  tcpwrapped
+705/tcp   open  tcpwrapped
+711/tcp   open  tcpwrapped
+722/tcp   open  tcpwrapped
+800/tcp   open  tcpwrapped
+911/tcp   open  tcpwrapped
+981/tcp   open  tcpwrapped
+993/tcp   open  imaps?
+995/tcp   open  pop3s?
+1001/tcp  open  tcpwrapped
+1007/tcp  open  tcpwrapped
+1023/tcp  open  tcpwrapped
+1024/tcp  open  tcpwrapped
+1025/tcp  open  tcpwrapped
+1027/tcp  open  tcpwrapped
+1028/tcp  open  tcpwrapped
+1029/tcp  open  tcpwrapped
+1030/tcp  open  tcpwrapped
+1032/tcp  open  tcpwrapped
+1035/tcp  open  tcpwrapped
+1039/tcp  open  tcpwrapped
+1043/tcp  open  tcpwrapped
+1051/tcp  open  tcpwrapped
+1057/tcp  open  tcpwrapped
+1060/tcp  open  tcpwrapped
+1061/tcp  open  tcpwrapped
+1066/tcp  open  tcpwrapped
+1067/tcp  open  tcpwrapped
+1068/tcp  open  tcpwrapped
+1080/tcp  open  tcpwrapped
+1081/tcp  open  tcpwrapped
+1084/tcp  open  tcpwrapped
+1085/tcp  open  tcpwrapped
+1094/tcp  open  tcpwrapped
+1097/tcp  open  tcpwrapped
+1104/tcp  open  tcpwrapped
+1110/tcp  open  tcpwrapped
+1121/tcp  open  tcpwrapped
+1130/tcp  open  tcpwrapped
+1131/tcp  open  tcpwrapped
+1137/tcp  open  tcpwrapped
+1141/tcp  open  tcpwrapped
+1149/tcp  open  tcpwrapped
+1175/tcp  open  tcpwrapped
+1199/tcp  open  tcpwrapped
+1217/tcp  open  tcpwrapped
+1218/tcp  open  tcpwrapped
+1233/tcp  open  tcpwrapped
+1259/tcp  open  tcpwrapped
+1271/tcp  open  tcpwrapped
+1296/tcp  open  tcpwrapped
+1322/tcp  open  tcpwrapped
+1328/tcp  open  tcpwrapped
+1434/tcp  open  tcpwrapped
+1461/tcp  open  tcpwrapped
+1500/tcp  open  tcpwrapped
+1533/tcp  open  tcpwrapped
+1658/tcp  open  tcpwrapped
+1720/tcp  open  tcpwrapped
+1723/tcp  open  tcpwrapped
+1755/tcp  open  tcpwrapped
+1801/tcp  open  tcpwrapped
+1840/tcp  open  tcpwrapped
+1862/tcp  open  tcpwrapped
+1875/tcp  open  tcpwrapped
+1984/tcp  open  tcpwrapped
+2000/tcp  open  tcpwrapped
+2001/tcp  open  tcpwrapped
+2002/tcp  open  tcpwrapped
+2005/tcp  open  tcpwrapped
+2006/tcp  open  tcpwrapped
+2009/tcp  open  tcpwrapped
+2020/tcp  open  tcpwrapped
+2030/tcp  open  tcpwrapped
+2041/tcp  open  tcpwrapped
+2042/tcp  open  tcpwrapped
+2068/tcp  open  tcpwrapped
+2099/tcp  open  tcpwrapped
+2100/tcp  open  tcpwrapped
+2119/tcp  open  tcpwrapped
+2126/tcp  open  tcpwrapped
+2161/tcp  open  tcpwrapped
+2196/tcp  open  tcpwrapped
+2260/tcp  open  tcpwrapped
+2301/tcp  open  tcpwrapped
+2366/tcp  open  tcpwrapped
+2522/tcp  open  tcpwrapped
+2525/tcp  open  tcpwrapped
+2557/tcp  open  tcpwrapped
+2602/tcp  open  tcpwrapped
+2701/tcp  open  tcpwrapped
+2875/tcp  open  tcpwrapped
+2909/tcp  open  tcpwrapped
+2910/tcp  open  tcpwrapped
+3005/tcp  open  tcpwrapped
+3030/tcp  open  tcpwrapped
+3071/tcp  open  tcpwrapped
+3168/tcp  open  tcpwrapped
+3221/tcp  open  tcpwrapped
+3260/tcp  open  tcpwrapped
+3269/tcp  open  tcpwrapped
+3300/tcp  open  tcpwrapped
+3301/tcp  open  tcpwrapped
+3306/tcp  open  mysql?
+3322/tcp  open  tcpwrapped
+3323/tcp  open  tcpwrapped
+3367/tcp  open  tcpwrapped
+3372/tcp  open  tcpwrapped
+3389/tcp  open  tcpwrapped
+3527/tcp  open  tcpwrapped
+3737/tcp  open  tcpwrapped
+3801/tcp  open  tcpwrapped
+3826/tcp  open  tcpwrapped
+3827/tcp  open  tcpwrapped
+3828/tcp  open  tcpwrapped
+3871/tcp  open  tcpwrapped
+3918/tcp  open  tcpwrapped
+3920/tcp  open  tcpwrapped
+3945/tcp  open  tcpwrapped
+3986/tcp  open  tcpwrapped
+4000/tcp  open  tcpwrapped
+4045/tcp  open  tcpwrapped
+4111/tcp  open  tcpwrapped
+4224/tcp  open  tcpwrapped
+4279/tcp  open  tcpwrapped
+5002/tcp  open  tcpwrapped
+5004/tcp  open  tcpwrapped
+5030/tcp  open  tcpwrapped
+5050/tcp  open  tcpwrapped
+5054/tcp  open  tcpwrapped
+5100/tcp  open  tcpwrapped
+5120/tcp  open  tcpwrapped
+5190/tcp  open  tcpwrapped
+5214/tcp  open  tcpwrapped
+5226/tcp  open  tcpwrapped
+5405/tcp  open  tcpwrapped
+5440/tcp  open  tcpwrapped
+5500/tcp  open  tcpwrapped
+5544/tcp  open  tcpwrapped
+5550/tcp  open  tcpwrapped
+5631/tcp  open  tcpwrapped
+5678/tcp  open  tcpwrapped
+5815/tcp  open  tcpwrapped
+5850/tcp  open  tcpwrapped
+5862/tcp  open  tcpwrapped
+5900/tcp  open  tcpwrapped
+5915/tcp  open  unknown
+5952/tcp  open  tcpwrapped
+5962/tcp  open  tcpwrapped
+5963/tcp  open  indy?
+5987/tcp  open  wbem-rmi?
+5999/tcp  open  tcpwrapped
+6000/tcp  open  tcpwrapped
+6001/tcp  open  tcpwrapped
+6059/tcp  open  tcpwrapped
+6100/tcp  open  tcpwrapped
+6543/tcp  open  tcpwrapped
+6580/tcp  open  tcpwrapped
+6646/tcp  open  tcpwrapped
+6667/tcp  open  irc?
+6669/tcp  open  tcpwrapped
+6699/tcp  open  tcpwrapped
+6792/tcp  open  tcpwrapped
+6969/tcp  open  tcpwrapped
+7019/tcp  open  tcpwrapped
+7025/tcp  open  tcpwrapped
+7070/tcp  open  tcpwrapped
+7103/tcp  open  tcpwrapped
+7200/tcp  open  fodms?
+7496/tcp  open  tcpwrapped
+7627/tcp  open  tcpwrapped
+7778/tcp  open  interwise?
+7911/tcp  open  tcpwrapped
+7999/tcp  open  tcpwrapped
+8011/tcp  open  unknown
+8021/tcp  open  tcpwrapped
+8045/tcp  open  tcpwrapped
+8080/tcp  open  tcpwrapped
+8085/tcp  open  tcpwrapped
+8089/tcp  open  tcpwrapped
+8090/tcp  open  tcpwrapped
+8192/tcp  open  tcpwrapped
+8194/tcp  open  tcpwrapped
+8222/tcp  open  tcpwrapped
+8292/tcp  open  tcpwrapped
+8333/tcp  open  tcpwrapped
+8654/tcp  open  tcpwrapped
+8888/tcp  open  tcpwrapped
+8899/tcp  open  tcpwrapped
+9000/tcp  open  tcpwrapped
+9001/tcp  open  tcpwrapped
+9002/tcp  open  tcpwrapped
+9050/tcp  open  tcpwrapped
+9099/tcp  open  tcpwrapped
+9101/tcp  open  jetdirect?
+9200/tcp  open  wap-wsp?
+9220/tcp  open  tcpwrapped
+9290/tcp  open  tcpwrapped
+9415/tcp  open  tcpwrapped
+9485/tcp  open  tcpwrapped
+9502/tcp  open  tcpwrapped
+9618/tcp  open  tcpwrapped
+9900/tcp  open  tcpwrapped
+9999/tcp  open  tcpwrapped
+10000/tcp open  tcpwrapped
+10002/tcp open  tcpwrapped
+10009/tcp open  tcpwrapped
+10180/tcp open  tcpwrapped
+10243/tcp open  tcpwrapped
+10621/tcp open  tcpwrapped
+10626/tcp open  tcpwrapped
+10778/tcp open  tcpwrapped
+11110/tcp open  tcpwrapped
+11967/tcp open  tcpwrapped
+12000/tcp open  tcpwrapped
+12174/tcp open  tcpwrapped
+12265/tcp open  tcpwrapped
+13722/tcp open  tcpwrapped
+14441/tcp open  tcpwrapped
+14442/tcp open  tcpwrapped
+16080/tcp open  tcpwrapped
+16113/tcp open  tcpwrapped
+16992/tcp open  tcpwrapped
+19315/tcp open  tcpwrapped
+19842/tcp open  tcpwrapped
+27355/tcp open  tcpwrapped
+32772/tcp open  tcpwrapped
+32773/tcp open  tcpwrapped
+32785/tcp open  tcpwrapped
+34572/tcp open  tcpwrapped
+34573/tcp open  tcpwrapped
+35500/tcp open  tcpwrapped
+44176/tcp open  tcpwrapped
+44442/tcp open  tcpwrapped
+49155/tcp open  tcpwrapped
+49157/tcp open  unknown
+49163/tcp open  unknown
+49175/tcp open  unknown
+50001/tcp open  unknown
+50003/tcp open  unknown
+50389/tcp open  unknown
+50636/tcp open  unknown
+50800/tcp open  unknown
+52673/tcp open  unknown
+52822/tcp open  unknown
+55055/tcp open  unknown
+55600/tcp open  unknown
+56738/tcp open  unknown
+60443/tcp open  unknown
+61900/tcp open  unknown
+62078/tcp open  tcpwrapped
+64680/tcp open  tcpwrapped
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
