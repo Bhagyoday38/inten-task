@@ -1,0 +1,61 @@
+Step-by-Step Phishing Indicators Analysis
+1. Sender Address Verification
+Shown Sender: support@micr0soft-secure.com
+
+Analysis: The domain is an apparent valid one but modified (micr0soft instead of microsoft). This is a fake/spoofed domain — a good phishing indicator.
+
+2. Header Analysis
+(Use a tool such as https://mxtoolbox.com/EmailHeaders.aspx or https://toolbox.googleapps.com/apps/messageheader/)
+
+Return Path: returnpath@phishingsite.ru
+
+SPF/DKIM/DMARC Results: SPF fail, DKIM fail, DMARC not available
+
+Analysis: Not authenticating correctly means that the message is coming from an untrusted location.
+
+3. Suspicious Links or Attachments
+Link Text: Update Your Account
+
+Actual URL (on hover): http://security-check-authenticat1on.com/login
+
+Attachment: SecurityUpdate.zip (holds Update.html)
+
+Analysis: The link is to a non-related legitimate company domain. The attachment is a ZIP file, the most prevalent to conceal malicious content.
+
+4. Language & Tone
+Text Example:
+"Immediate action required! Your account has been compromised. Failure to respond within 24 hours will result in suspension."
+
+Analysis: Use of urgent/threatening language is a common phishing attack.
+
+5. Spelling & Grammar
+Text Example:
+"We noticed unathorized logins to you're account from unknow devices."
+
+Errors Identified: "unathorized," "you're" rather than "your," "unknow"
+
+Analysis: Some grammatical and spelling mistakes, characteristic of phishing emails.
+
+6. Incorrect URLs
+Shown Link: www.paypal.com
+
+Actual Link: http://paypal-secureverify.com
+
+Analysis: Inconsistent hover links expose scam intentions.
+
+Phishing Indicator List Detected
+Indicator	Feature Description
+Spoofed Email	Sender has a spoofed or similar-domain
+Failed Authentication	SPF, DKIM, or DMARC failure in header
+Suspicious Link	Hover exposes fake URL
+Dangerous Attachment
+ZIP file with internal HTML
+Urgent Language
+Impies danger or urgency
+Grammar Errors
+Misspelling and syntax errors
+Mismatched URLs
+Shown vs actual destination not the same
+
+Conclusion
+This email has several strong signs of phishing, such as spoofed sender details, suspicious URLs, security test failure, grammatical errors, and controlling language. It must be reported and deleted at once
